@@ -1,5 +1,5 @@
 # vuetify-task-list
-This simple task list web application was built with Vue.js and Vuetify 📝
+A simple application built with Vue.js and Vuetify to keep track of important tasks 📝
 
 
 ## Install dependencies
